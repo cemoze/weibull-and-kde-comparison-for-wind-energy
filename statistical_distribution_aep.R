@@ -32,8 +32,7 @@ head(nrel_pc, n = 15)
 
 "https://gitlab.windenergy.dtu.dk/fair-data/winddata-revamp/winddata-documentation/-/blob/master/risoe_m.md"
 
-# Since this data has license CC BY 4.0, you can find the data in this repo as
-# well.
+# To proceed to this script, you should download the data named, risose_m_all.nc
 
 library(ncdf4)
 dtu_riso_metmast = nc_open("risoe_m_all.nc")

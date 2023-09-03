@@ -57,8 +57,7 @@ head(nrel_pc, n = 15)
 
 ```
 
-Since we will discuss the statistical distributions and their limitations in the wind energy applications, we should have a wind speed data. For this purpose, we've decided to use Riso met mast located at the DTU Riso Campus, Denmark. This met mast has measurements period includes 12 years which starts from 1995 and extends up to 2007. Wind speed has been measured at 44, 77, 125 meter heights above from the ground. We will use the top anemometers wind speed measurements in this study. Here you can reach to the data by clicking **[this]("https://gitlab.windenergy.dtu.dk/fair-data/winddata-revamp/winddata-documentation/-/blob/master/risoe_m.md").** Since this data has license CC BY 4.0, you can find the data in this repo as well.
-
+Since we will discuss the statistical distributions and their limitations in the wind energy applications, we should have a wind speed data. For this purpose, we've decided to use Riso met mast located at the DTU Riso Campus, Denmark. This met mast has measurements period includes 12 years which starts from 1995 and extends up to 2007. Wind speed has been measured at 44, 77, 125 meter heights above from the ground. We will use the top anemometers wind speed measurements in this study. Here you can reach to the data by clicking **[this]("https://gitlab.windenergy.dtu.dk/fair-data/winddata-revamp/winddata-documentation/-/blob/master/risoe_m.md").**. Although it has CC 4.0 license, I can not add the data to the repository because of the file size limits of the GitHub. So that, you should've download the data manually.
 
 ```{r}
 library(ncdf4)
