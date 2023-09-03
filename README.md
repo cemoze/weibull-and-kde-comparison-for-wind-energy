@@ -15,7 +15,7 @@ In my experience through working as wind resource asessment engineer in differen
 To replicate our analysis and explore the findings, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Download the data from this **[link](https://gitlab.windenergy.dtu.dk/fair-data/winddata-revamp/winddata-documentation/-/blob/master/risoe_m.md)**.
+2. Download the met mast data located at the DTU Riso Campus from this **[link](https://gitlab.windenergy.dtu.dk/fair-data/winddata-revamp/winddata-documentation/-/blob/master/risoe_m.md)**.
 3. Follow the R or Rmd files.
 
 The resulted final plot with KS-Statistic and AEP in MWhs is seen below.
