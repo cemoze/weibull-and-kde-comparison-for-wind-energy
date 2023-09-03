@@ -1,4 +1,4 @@
-# Comparison of the well-known parametric Weibull with non-parametric KDE for Wind Enegy Applications
+# Comparison of the well-known parametric statistical distribution Weibull with non-parametric KDE for Wind Enegy Applications
 
 This repository contains the code, and a final documentation for the study that compares the Weibull distribution with Kernel Density Estimation (KDE) for wind speed modeling. This study aims to provide insights into improving wind energy assessments.
 
